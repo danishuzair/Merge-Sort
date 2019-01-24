@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danishsiddiqui/Google Drive/Documents/C++ Practice/Merge Sort/cfileinout.h
+string
+-
+fstream
+-
+iostream
+-
+
+/Users/danishsiddiqui/Google Drive/Documents/C++ Practice/Merge Sort/main.cpp
+iostream
+-
+mergesort.h
+/Users/danishsiddiqui/Google Drive/Documents/C++ Practice/Merge Sort/mergesort.h
+cfileinout.h
+/Users/danishsiddiqui/Google Drive/Documents/C++ Practice/Merge Sort/cfileinout.h
+
+/Users/danishsiddiqui/Google Drive/Documents/C++ Practice/Merge Sort/mergesort.cpp
+mergesort.h
+/Users/danishsiddiqui/Google Drive/Documents/C++ Practice/Merge Sort/mergesort.h
+
+/Users/danishsiddiqui/Google Drive/Documents/C++ Practice/Merge Sort/mergesort.h
+cmath
+-
+vector
+-
+iostream
+-
+

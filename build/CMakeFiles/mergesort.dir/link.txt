@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/mergesort.dir/main.cpp.o CMakeFiles/mergesort.dir/mergesort.cpp.o CMakeFiles/mergesort.dir/cfileinout.cpp.o  -o mergesort 
